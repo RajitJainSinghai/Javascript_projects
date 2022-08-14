@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+input[type="button"] {
+    width: 80px;
+    line-height: 10px;
+    font-size: 20px;
+}
+input#result {
+    width: 100%;
+    font-size: 15px;
+    padding: 3px 0;
+    color: purple;
+}
