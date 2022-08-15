@@ -1,0 +1,11 @@
+ul.container {
+    list-style-type: none;
+    font-size: 20px;
+    border: 1px solid;
+    width: 200px;
+    padding: 30px;
+}
+p.name {
+    margin: 0;
+    padding: 0;
+}
